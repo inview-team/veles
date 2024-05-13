@@ -17,6 +17,10 @@
         {
             "tag": "MongoDB",
             "icon": "https://raw.githubusercontent.com/inview-team/veles/master/.github/images/mongodb.svg"
+        },
+        {
+            "tag": "React",
+            "icon": "https://raw.githubusercontent.com/inview-team/veles/master/.github/images/react.png"
         }
     ]
 }
