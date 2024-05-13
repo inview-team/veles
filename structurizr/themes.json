@@ -1,0 +1,30 @@
+{
+    "name": "technology",
+    "description": "icons",
+    "elements": [
+        {
+            "tag": "Golang",
+            "icon": ""
+        },
+        {
+            "tag": "Python",
+            "icon": ""
+        },
+        {
+            "tag": "Redis",
+            "icon": ""
+        },
+        {
+            "tag": "MongoDB",
+            "icon": ""
+        },
+        {
+            "tag": "NLP",
+            "icon": ""
+        },
+        {
+            "tag": "Model",
+            "icon": ""
+        }
+    ]
+}
