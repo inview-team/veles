@@ -4,27 +4,19 @@
     "elements": [
         {
             "tag": "Golang",
-            "icon": ""
+            "icon": "https://raw.githubusercontent.com/inview-team/veles/master/.github/images/golang.svg"
         },
         {
             "tag": "Python",
-            "icon": ""
+            "icon": "https://raw.githubusercontent.com/inview-team/veles/master/.github/images/python.png"
         },
         {
             "tag": "Redis",
-            "icon": ""
+            "icon": "https://raw.githubusercontent.com/inview-team/veles/master/.github/images/redis.png"
         },
         {
             "tag": "MongoDB",
-            "icon": ""
-        },
-        {
-            "tag": "NLP",
-            "icon": ""
-        },
-        {
-            "tag": "Model",
-            "icon": ""
+            "icon": "https://raw.githubusercontent.com/inview-team/veles/master/.github/images/mongodb.svg"
         }
     ]
 }
